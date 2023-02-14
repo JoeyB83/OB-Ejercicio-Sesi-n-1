@@ -1,0 +1,15 @@
+C:\Users\joeal\Desktop\Bootcamps\OpenBootcamp\Ejercicio sesión 1\bin\Debug\net6.0\Ejercicio sesión 1.exe
+C:\Users\joeal\Desktop\Bootcamps\OpenBootcamp\Ejercicio sesión 1\bin\Debug\net6.0\Ejercicio sesión 1.deps.json
+C:\Users\joeal\Desktop\Bootcamps\OpenBootcamp\Ejercicio sesión 1\bin\Debug\net6.0\Ejercicio sesión 1.runtimeconfig.json
+C:\Users\joeal\Desktop\Bootcamps\OpenBootcamp\Ejercicio sesión 1\bin\Debug\net6.0\Ejercicio sesión 1.dll
+C:\Users\joeal\Desktop\Bootcamps\OpenBootcamp\Ejercicio sesión 1\bin\Debug\net6.0\Ejercicio sesión 1.pdb
+C:\Users\joeal\Desktop\Bootcamps\OpenBootcamp\Ejercicio sesión 1\obj\Debug\net6.0\Ejercicio sesión 1.csproj.AssemblyReference.cache
+C:\Users\joeal\Desktop\Bootcamps\OpenBootcamp\Ejercicio sesión 1\obj\Debug\net6.0\Ejercicio sesión 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeal\Desktop\Bootcamps\OpenBootcamp\Ejercicio sesión 1\obj\Debug\net6.0\Ejercicio sesión 1.AssemblyInfoInputs.cache
+C:\Users\joeal\Desktop\Bootcamps\OpenBootcamp\Ejercicio sesión 1\obj\Debug\net6.0\Ejercicio sesión 1.AssemblyInfo.cs
+C:\Users\joeal\Desktop\Bootcamps\OpenBootcamp\Ejercicio sesión 1\obj\Debug\net6.0\Ejercicio sesión 1.csproj.CoreCompileInputs.cache
+C:\Users\joeal\Desktop\Bootcamps\OpenBootcamp\Ejercicio sesión 1\obj\Debug\net6.0\Ejercicio sesión 1.dll
+C:\Users\joeal\Desktop\Bootcamps\OpenBootcamp\Ejercicio sesión 1\obj\Debug\net6.0\refint\Ejercicio sesión 1.dll
+C:\Users\joeal\Desktop\Bootcamps\OpenBootcamp\Ejercicio sesión 1\obj\Debug\net6.0\Ejercicio sesión 1.pdb
+C:\Users\joeal\Desktop\Bootcamps\OpenBootcamp\Ejercicio sesión 1\obj\Debug\net6.0\Ejercicio sesión 1.genruntimeconfig.cache
+C:\Users\joeal\Desktop\Bootcamps\OpenBootcamp\Ejercicio sesión 1\obj\Debug\net6.0\ref\Ejercicio sesión 1.dll
